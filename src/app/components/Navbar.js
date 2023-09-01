@@ -15,7 +15,7 @@ function Navbar() {
   };
 
   return (
-    <div className="custom-bg w-full bg-no-repeat bg-center bg-cover h-[20vh] md:h-[50vh] lg:h-[60vh]">
+    <div className="custom-bg w-full bg-no-repeat bg-center bg-cover h-[20vh] md:h-[50vh] lg:h-[60vh] cursor: pointer">
       <div className="flex justify-between items-center mx-6 lg:py-5">
         <SiWarnerbros
           size={50}
